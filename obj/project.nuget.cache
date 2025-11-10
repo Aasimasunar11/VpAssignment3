@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "caHVNfQAb5s=",
   "success": true,
   "projectFilePath": "D:\\.NET\\.NET.csproj",
+=======
+  "dgSpecHash": "Ai/dfViAPy0=",
+  "success": true,
+  "projectFilePath": "E:\\.Net\\.Net.csproj",
+>>>>>>> c0b5de4a2b43f61074dada970632c83155c45f08
   "expectedPackageFiles": [],
   "logs": []
 }
