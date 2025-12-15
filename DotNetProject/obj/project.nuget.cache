@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ceI2d/d8mFE=",
+  "success": true,
+  "projectFilePath": "D:\\.NET\\.Net.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file D:\\.NET\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\.NET\\.Net.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\.NET\\.Net.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
