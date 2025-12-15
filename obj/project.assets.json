@@ -8,39 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\sunar\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\kdips\\.nuget\\packages\\": {},
->>>>>>> c0b5de4a2b43f61074dada970632c83155c45f08
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\.NET\\.NET.csproj",
-      "projectName": ".NET",
-      "projectPath": "D:\\.NET\\.NET.csproj",
+      "projectUniqueName": "D:\\.NET\\.Net.csproj",
+      "projectName": ".Net",
+      "projectPath": "D:\\.NET\\.Net.csproj",
       "packagesPath": "C:\\Users\\sunar\\.nuget\\packages\\",
       "outputPath": "D:\\.NET\\obj\\",
-=======
-      "projectUniqueName": "E:\\.Net\\.Net.csproj",
-      "projectName": ".Net",
-      "projectPath": "E:\\.Net\\.Net.csproj",
-      "packagesPath": "C:\\Users\\kdips\\.nuget\\packages\\",
-      "outputPath": "E:\\.Net\\obj\\",
->>>>>>> c0b5de4a2b43f61074dada970632c83155c45f08
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\sunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\kdips\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c0b5de4a2b43f61074dada970632c83155c45f08
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -89,12 +73,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
->>>>>>> c0b5de4a2b43f61074dada970632c83155c45f08
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\.NET\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }

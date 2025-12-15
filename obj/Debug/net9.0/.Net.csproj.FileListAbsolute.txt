@@ -13,3 +13,11 @@ E:\.Net\obj\Debug\net9.0\.Net.pdb
 E:\.Net\obj\Debug\net9.0\.Net.genruntimeconfig.cache
 E:\.Net\obj\Debug\net9.0\ref\.Net.dll
 E:\.Net\obj\Debug\net9.0\.Net.sourcelink.json
+D:\.NET\obj\Debug\net9.0\.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\obj\Debug\net9.0\.Net.AssemblyInfoInputs.cache
+D:\.NET\obj\Debug\net9.0\.Net.AssemblyInfo.cs
+D:\.NET\obj\Debug\net9.0\.Net.csproj.CoreCompileInputs.cache
+D:\.NET\obj\Debug\net9.0\.Net.sourcelink.json
+D:\.NET\obj\Debug\net9.0\.Net.dll
+D:\.NET\obj\Debug\net9.0\refint\.Net.dll
+D:\.NET\obj\Debug\net9.0\.Net.pdb
