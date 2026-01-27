@@ -1,25 +1,5 @@
 ﻿using System;
 
-<<<<<<< HEAD
-namespace DatabaseConnection
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            ConnectDatabaseCreateTable.CreateTables();
-
-            InsertDataInTable.InsertUsers();
-            InsertDataInTable.InsertProducts();
-
-            ReadWriteData.ReadUsers();
-
-            Console.WriteLine("Program Completed Successfully");
-            Console.ReadLine();
-        }
-    }
-}
-=======
 class Program
 {
   static void Main(string[] args)
@@ -123,4 +103,3 @@ class Program
 
 
 
->>>>>>> 9e1d5bf7fb7b49688847500459192533d51dfe9f
